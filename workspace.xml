@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eda4202b-123d-4b58-b0bb-b3fbc634eb90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Store/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Store/CustomerDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/CustomerDashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Store/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Store/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Store/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Store/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store/Purchase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yaseenhaider&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/azharanees/OnlineShopping.git&quot;,
+    &quot;accountId&quot;: &quot;44d657e7-1ec6-46a7-b738-80f0ed082890&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ya8Fqhqr0aZ2zbl2Gac1wtVGZE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application. .executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Yaseen Haider/Downloads/Compressed/openjfx-24.0.1_windows-x64_bin-sdk/javafx-sdk-24.0.1/lib/jfx.incubator.richtext.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.13333334",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Store.Main" />
+      <module name="OnlineShopping" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path &quot;C:\Users\Yaseen Haider\Downloads\Compressed\openjfx-24.0.1_windows-x64_bin-sdk_2\javafx-sdk-24.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Yaseen Haider\Downloads\Compressed\openjfx-24.0.1_windows-x64_bin-sdk_2\javafx-sdk-24.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="--module-path &quot;C:\Users\Yaseen Haider\Downloads\Compressed\openjfx-24.0.1_windows-x64_bin-sdk_2\javafx-sdk-24.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <module name="OnlineShopping" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Unnamed (1)" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eda4202b-123d-4b58-b0bb-b3fbc634eb90" name="Changes" comment="" />
+      <created>1750061223118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750061223118</updated>
+    </task>
+    <servers />
+  </component>
+</project>
